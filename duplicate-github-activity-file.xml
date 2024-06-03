@@ -1,0 +1,51 @@
+<iati-activities version="2.03" generated-datetime="2024-06-03T16:25:11+00:00">
+<iati-activity last-updated-datetime="2024-06-03T16:18:14+00:00" xml:lang="en" default-currency="GBP" humanitarian="1" hierarchy="1">
+<iati-identifier>XM-DAC-999-999-emails</iati-identifier>
+<reporting-org type="10" ref="XM-DAC-999-999" secondary-reporter="0">
+<narrative xml:lang="en">simon-troubleshooting</narrative>
+</reporting-org>
+<title>
+<narrative xml:lang="en">Troubleshooting automated emails</narrative>
+</title>
+<description type="1">
+<narrative xml:lang="en">Testing whether activity in IATI Publisher generates emails in Staging of the Registry. And can a general user publish?</narrative>
+</description>
+<participating-org ref="GB-GOV-1" type="10" role="1" activity-id="emails" crs-channel-code="11000"/>
+<activity-status code="2"/>
+<activity-date type="1" iso-date="2024-01-01"/>
+<activity-scope code="4"/>
+<recipient-country code="AF" percentage="100"/>
+<sector code="11110" percentage="100" vocabulary="1"/>
+<collaboration-type code="1"/>
+<default-flow-type code="10"/>
+<default-finance-type code="110"/>
+<default-aid-type code="A01" vocabulary="1"/>
+<budget type="1" status="2">
+<period-start iso-date="2024-02-01"/>
+<period-end iso-date="2024-12-31"/>
+<value currency="GBP" value-date="2024-03-25">100</value>
+</budget>
+<transaction>
+<transaction-type code="1"/>
+<transaction-date iso-date="2024-03-25"/>
+<value currency="GBP" value-date="2024-03-25">100</value>
+</transaction>
+</iati-activity>
+<iati-activity last-updated-datetime="2024-06-03T16:25:09+00:00" xml:lang="en" default-currency="GBP" humanitarian="1" hierarchy="1">
+<iati-identifier>XM-DAC-999-999-emails-2</iati-identifier>
+<reporting-org type="10" ref="XM-DAC-999-999" secondary-reporter="0">
+<narrative xml:lang="en">simon-troubleshooting</narrative>
+</reporting-org>
+<title>
+<narrative xml:lang="en">Second automated emails test</narrative>
+</title>
+<description type="1">
+<narrative xml:lang="en">Testing whether a new activity in IATI Publisher generates emails in Staging of the Registry.</narrative>
+</description>
+<participating-org ref="GB-GOV-1" type="10" role="1" activity-id="emails"/>
+<activity-status code="2"/>
+<activity-date type="1" iso-date="2024-02-01"/>
+<activity-scope code="4"/>
+<recipient-country code="AL" percentage="100"/>
+</iati-activity>
+</iati-activities>
